@@ -1,0 +1,1 @@
+-- Command ninguno (zidanxhostage/config.lua)
