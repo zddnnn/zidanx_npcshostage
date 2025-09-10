@@ -1,5 +1,5 @@
+discord: https://discord.gg/tdmzuuwYTq ( UPDATES ) 
 Zidanx Hostage System (FiveM QBCore)
-discord: https://discord.gg/tdmzuuwYTq
 Zidanx Hostage System is a fully-featured, professional hostage and NPC interaction script for FiveM servers using the QBCore framework. It allows players to take NPCs as hostages, manage them dynamically, and integrates seamlessly with popular dispatch systems. The script is highly configurable, lightweight, and designed for roleplay servers looking to enhance immersion and gameplay depth.
 
 Key Features
